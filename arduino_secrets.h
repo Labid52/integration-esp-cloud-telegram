@@ -8,13 +8,13 @@
 
 #define SECRET_CH_ID 2129021     // replace 0000000 with your channel number
 #define SECRET_WRITE_APIKEY "NPY5Y3K4V29BO6W3"   // replace XYZ with your channel write API Key
-#define BOT_TOKEN "6279346543:AAELzMjApOgGc_k0EgLy_fMnqJMKxeX2Psg"
-#define CHAT_ID "6267218569"
+#define BOT_TOKEN "XXXXXXXXX"  // replace with you own token
+#define CHAT_ID "XXXXXXXX"
 
 
 #if defined(BOARD_HAS_WIFI)
-  #define SECRET_SSID "LabidIC"
-  #define SECRET_PASS "12345678"
+  #define SECRET_SSID "XXXXX"
+  #define SECRET_PASS "XXXXXXX"
 #endif
 
 /* ESP8266 ESP32*/
