@@ -77,5 +77,8 @@ Once the project is uploaded to the ESP32:
 
 This project showcases how to combine **ESP32**, **Arduino IoT Cloud**, and a **Telegram bot** for seamless remote control and monitoring. The use of cloud services enables easy data storage and remote accessibility, while the Telegram bot provides a user-friendly interface for interaction.
 <img width="1302" height="599" alt="image" src="https://github.com/user-attachments/assets/b44ffbb7-c3bc-4580-97b3-0755022124ce" />
+<img width="1080" height="2049" alt="image" src="https://github.com/user-attachments/assets/e2967ab4-7a0f-4925-bbc5-6eb54bb05df7" />
+<img width="1105" height="721" alt="image" src="https://github.com/user-attachments/assets/4efa1905-ff4d-44ec-8b0e-f2748c5c96f4" />
+
 
 
